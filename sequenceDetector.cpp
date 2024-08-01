@@ -1,3 +1,11 @@
+// was tasked to make a sequence detector using verilog.
+// I am finding it hard to use verilog so i decided to try C++
+//,Although both are vastly different in application, but i said why not,
+// It will be easy, since i am decent in C++, didnt know i was going to spend the whole day
+// creating a suboptimal solution with a lot of bad choices
+// only to realize at the end that using string would have my life easisera and saved me a ton of time
+// 10/10 for brute forcing a solution that is not ideal.
+
 #include <iostream>
 #include <vector>	// Using vector cux they dynamic.
 using namespace std;
